@@ -1,0 +1,35 @@
+{
+  "uuid": "38388b74-b3d1-421f-90fa-bf34edb3b38f",
+  "shortName": "PolarMap_2.0",
+  "longName": "PolarMap_2.0",
+  "companyName": "Hudson & Jnm",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MAP",
+        "file": "images/map.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_SOURCECODEPRO_LIGHT_18",
+        "characterRegex": "[ :0-9]",
+        "file": "fonts/SourceCodePro-Light.otf"
+      }
+    ]
+  }
+}
